@@ -1,0 +1,13 @@
+body {
+  background: linear-gradient(to right, #43cea2, #185a9d);
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+form {
+  max-width: 500px;
+  margin: auto;
+}
+
+input:focus {
+  box-shadow: 0 0 5px rgba(0, 123, 255, 0.5);
+}
